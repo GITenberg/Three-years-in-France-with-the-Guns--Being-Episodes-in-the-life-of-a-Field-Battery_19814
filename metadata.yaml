@@ -1,0 +1,26 @@
+_repo: Three-years-in-France-with-the-Guns--Being-Episodes-in-the-life-of-a-Field-Battery_19814
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rose, C. A.
+    gutenberg_agent_id: '8900'
+    url: http://www.gutenberg.org/2009/agents/8900
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+title: 'Three years in France with the Guns: Being Episodes in the life of a Field
+  Battery'
+url: http://www.gutenberg.org/ebooks/19814
